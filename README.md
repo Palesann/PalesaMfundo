@@ -1,4 +1,4 @@
-# hello 
+
 # 💫 About Me:
 Hi, I'm Palesa Nomfundo Ndhlangamandla a computer science student <br>at Walter Sisulu University and aspiring Software Engineer passionate about<br>building impactful and scalable solutions.<br><br>I'm focused on strengthening my skills in programming, problem solving <br>and software development, while exploring Artifictial Intellingence and modern <br>technologies.<br><br>🚀 what I'm working on :<br>* Developing real world coding projects<br>* Improving my data structures & algorithms<br>* Exploring AI driven solutions <br><br>my goal is to become a skilled software engineer who builds technology that <br>makes a difference globally<br>
 
